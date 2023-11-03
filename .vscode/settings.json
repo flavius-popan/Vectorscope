@@ -12,7 +12,5 @@
     "python.analysis.extraPaths": [
         ".vscode/Pico-W-Stub",
         ".vscode/Vectorscope",
-    ],
-    "micropico.syncFolder": "",
-    "micropico.openOnStart": true
+    ]
 }
